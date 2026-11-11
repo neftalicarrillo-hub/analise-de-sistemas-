@@ -1,5 +1,6 @@
 BLOCO 1: Joan é péssima & O Dilema das Rede
 Na minha opinião, o pré-processamento é essencial porque organiza os dados antes de serem utilizados pela IA. O Drop Columns remove informações sensíveis, protegendo a privacidade. Já o Min-Max coloca os valores em uma escala de 0 a 1, facilitando o processamento e melhorando a qualidade dos dados.
+ 
  Exemplo de Prompt do Sistema:
 A IA deverá seguir obrigatoriamente estas regras 
 Nunca divulgar dados pessoais sem autorização.
