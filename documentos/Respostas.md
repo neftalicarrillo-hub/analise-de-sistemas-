@@ -1,4 +1,4 @@
-BLOCO 1: Joan é péssima & O Dilema das Rede
+BLOCO 1: Joan é péssima e O Dilema das Rede
 Na minha opinião, o pré-processamento é essencial porque organiza os dados antes de serem utilizados pela IA. O Drop Columns remove informações sensíveis, protegendo a privacidade. Já o Min-Max coloca os valores em uma escala de 0 a 1, facilitando o processamento e melhorando a qualidade dos dados.
  
  Exemplo de Prompt do Sistema:
@@ -22,7 +22,8 @@ Na minha visão, a entrada X foi formada por fotos, vídeos, áudios e mensagens
 BLOCO 4: Hino Nacional:
  Eu acredito que um R² muito baixo e um RMSE elevado indicariam que o modelo não é confiável. Os falsos positivos poderiam identificar uma ligação verdadeira como golpe, enquanto os falsos negativos poderiam deixar uma ligação criminosa passar despercebida. Isso poderia causar medo, prejuízos e decisões erradas para as famílias e o governo
  
- Pitch – Golpes de falso sequestro por Abertura: Imagine receber uma ligação com a voz do seu pai pedindo ajuda. Você ficaria preocupado mas e se fosse uma voz falsa 
+ Pitch 
+ Golpes de falso sequestro por Abertura: Imagine receber uma ligação com a voz do seu pai pedindo ajuda. Você ficaria preocupado mas e se fosse uma voz falsa 
 
  Problema: Criminosos usam inteligência artificial para copiar vozes e enganar famílias, pedindo dinheiro por falsos sequestros.
 
